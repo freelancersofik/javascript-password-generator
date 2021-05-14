@@ -1,0 +1,25 @@
+.form {
+    text-align: center;
+    margin: 143px 10px;
+}
+
+input#gnaretorpass {
+    padding: 10px  17px;
+    margin: 10px;
+    font-size: 20px;
+    border: solid  2px #8f8f7d;
+    border-radius: 10px;
+    width: 25%;
+    outline: none;
+}
+
+input#button {
+    padding: 10px 43px;
+    background: #007eff;
+    font-size: 21px;
+    font-family: arial;
+    color: white;
+    border: navajowhite;
+    border-radius: 12px;
+    text-align: center;
+}
